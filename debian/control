@@ -1,0 +1,13 @@
+Source: cutefish-gtk-themes
+Section: gnome
+Priority: optional
+Maintainer: CutefishOS <support@cutefishos.com>
+Build-Depends:
+Standards-Version: 3.9.6
+Homepage: https://cutefishos.com
+Vcs-Git: https://github.com/cutefishos
+
+Package: cutefish-gtk-themes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: CutefishOS GTK Themes
